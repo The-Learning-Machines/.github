@@ -1,7 +1,7 @@
 ## The Learning Machines
 - An Independent, self-funded research group. 
 - We conduct research in Machine Learning (open-interests). 
-- Some of our work have been accepted to workshops in Top-tier conferences.
+- Some of our work have been accepted to Top-tier conferences.
 
 ## Publications
 - [Audiomer: A Convolutional Transformer for Keyword Spotting](https://arxiv.org/abs/2109.10252), AAAI 2022 Dialog System Technology Challenge Workshop
