@@ -4,7 +4,6 @@
 - Some of our work have been accepted to Top-tier conferences.
 
 ## Publications
-- [Audiomer: A Convolutional Transformer for Keyword Spotting](https://arxiv.org/abs/2109.10252), AAAI 2022 Dialog System Technology Challenge Workshop
 - [Rethinking Neural Networks With Benford's Law](https://arxiv.org/abs/2102.03313), NeurIPS 2021 Machine Learning and the Physical Sciences Workshop
 - [Introducing Self-Attention to Target Attentive Graph Neural Networks](https://arxiv.org/abs/2107.01516), AISP 2022
 
