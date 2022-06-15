@@ -4,6 +4,7 @@
 - Some of our work have been accepted to Top-tier conferences.
 
 ## Publications
+- [Not All Lotteries Are Made Equal](https://www.researchgate.net/publication/361265311_Not_All_Lotteries_Are_Made_Equal), ICML 2022 Hardware Aware Efficient Training Workshop
 - [Rethinking Neural Networks With Benford's Law](https://arxiv.org/abs/2102.03313), NeurIPS 2021 Machine Learning and the Physical Sciences Workshop
 - [Introducing Self-Attention to Target Attentive Graph Neural Networks](https://arxiv.org/abs/2107.01516), AISP 2022
 
