@@ -1,7 +1,7 @@
 ## The Learning Machines
 - An Independent, self-funded research group. 
 - We conduct research in Machine Learning (open-interests). 
-- Some of our work have been accepted to Top-tier conferences.
+- Some of our work has been accepted to Top-tier conferences.
 
 ## Publications
 - [Not All Lotteries Are Made Equal](https://www.researchgate.net/publication/361265311_Not_All_Lotteries_Are_Made_Equal), ICML 2022 Hardware Aware Efficient Training Workshop
